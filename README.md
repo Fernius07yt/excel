@@ -1,5 +1,3 @@
-### README.md
-
 # Excel to Sortable Table Web Application
 
 This web application allows you to upload an Excel file and display its data in a sortable HTML table. The application uses SheetJS to read the Excel file and DataTables to provide sorting and other table functionalities.
