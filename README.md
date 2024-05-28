@@ -1,3 +1,5 @@
+### README.md
+
 # Excel to Sortable Table Web Application
 
 This web application allows you to upload an Excel file and display its data in a sortable HTML table. The application uses SheetJS to read the Excel file and DataTables to provide sorting and other table functionalities.
@@ -8,40 +10,17 @@ This web application allows you to upload an Excel file and display its data in 
 - Display the contents of the Excel file in an HTML table.
 - Sort the table by clicking on the column headers.
 
-## Prerequisites
+## Usage
 
-To run this application, you need a modern web browser with JavaScript enabled.
+You can use the application directly on the website without downloading anything.
 
-## Getting Started
+**Visit the application here: [Excel to Sortable Table](https://fernius07yt.github.io/excel/)**
 
-Follow these instructions to get the web application up and running on your local machine.
+### Steps:
 
-### Installation
-
-1. **Download the necessary files:**
-
-   - `index.html`
-   - `script.js`
-   - Optionally, create `styles.css` for custom styling.
-
-2. **Directory Structure:**
-
-   ```
-   /your-project-directory
-   ├── index.html
-   ├── script.js
-   └── styles.css (optional)
-   ```
-
-### Usage
-
-1. **Open `index.html` in a web browser:**
-
-   Simply double-click the `index.html` file or open it using your web browser's "Open File" option.
-
-2. **Upload an Excel file:**
-
-   Click on the file input to select and upload an Excel file (`.xlsx` or `.xls`). The table will be generated automatically, and you can sort the data by clicking on the column headers.
+1. Open the [web application](https://fernius07yt.github.io/excel/).
+2. Click on the file input to select and upload an Excel file (`.xlsx` or `.xls`).
+3. The table will be generated automatically, and you can sort the data by clicking on the column headers.
 
 ### Code Overview
 
